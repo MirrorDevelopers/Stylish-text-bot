@@ -24,7 +24,7 @@ async def start(c, m):
             InlineKeyboardButton('Updates Channel 📢', url=f"https://t.me/SlapTap")
             ],[
             InlineKeyboardButton('❤️ Credits', url=f"https://t.me/SlapTap"),
-            InlineKeyboardButton('GitHub 🤣', url=f"https://github.com/maxsupun")
+            InlineKeyboardButton('GitHub 🤣', url=f"https://github.com/TeamInfinityGo")
             ],[
             InlineKeyboardButton('⚜️ Subscribe ⚜️', url=f"https://youtube.com/channel/UCcaMQZHXuWnbGTELJ9H1blw?sub_confirmation=1")
         ]
